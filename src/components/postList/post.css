@@ -1,0 +1,13 @@
+.postPicture {
+  width: 250px;
+  height: 250px;
+}
+
+.postSection {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+  justify-items: center;
+  border: 10px solid black;
+}

@@ -1,0 +1,14 @@
+.EditPostForm,
+.postForm {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.submitForm,
+.deleteBtn {
+  margin-top: 10px;
+}
