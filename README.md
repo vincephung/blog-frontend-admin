@@ -12,3 +12,6 @@ Built using react and express/nodejs.
 
 I mainly focused on getting the rest api to work and did not stress on the actual aesthetics of the website.
 
+Backend github : https://github.com/vincephung/blog
+
+frontend normal view: https://github.com/vincephung/blog-frontend
